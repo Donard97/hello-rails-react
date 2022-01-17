@@ -1,6 +1,8 @@
 import React from "react"
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Greeting from "./Greeting";
+import store from "../redux/configureStore";
+import { Provider } from "react-redux";
 
 const App = () => {
   return (
@@ -14,4 +16,4 @@ const App = () => {
   );
 }
 
-export default App;
+export default App; 
