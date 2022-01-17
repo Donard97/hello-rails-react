@@ -1,12 +1,17 @@
 import React from "react"
-import PropTypes from "prop-types"
-class App extends React.Component {
-  render () {
-    return (
-      <React.Fragment>
-      </React.Fragment>
-    );
-  }
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import Greeting from "./Greeting";
+
+const App = () => {
+  return (
+    <Provider store={store}>
+      <BrowserRouter>
+        <Routes>
+          <Route path="/" element={<Greeting />} />
+        </Routes>
+      </BrowserRouter>
+    </Provider>
+  );
 }
 
-export default App
+export default App;
