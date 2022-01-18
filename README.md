@@ -3,6 +3,12 @@
 Hello-Rails-React is a project where I used react-rails gem on Ruby on Rails.
 
 # Hello React-Rails
+![image](https://user-images.githubusercontent.com/74506933/149950962-eee94b14-1d88-4e1a-9fa7-73170b0544f8.png) <br>
+![image](https://user-images.githubusercontent.com/74506933/149951755-a214aa33-bb37-456a-8059-c28d7f064b6c.png)<br>
+![image](https://user-images.githubusercontent.com/74506933/149951438-189f1423-61dd-44d6-8b47-5a6e76015ae1.png)<br>
+![image](https://user-images.githubusercontent.com/74506933/149951512-16a81758-5a2f-44f1-883e-8d5fa34e3f09.png)<br>
+![image](https://user-images.githubusercontent.com/74506933/149951600-ff6d9d96-3430-462f-9d7f-5a9b16a4f0c5.png)
+
 
 
 ## Built With
